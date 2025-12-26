@@ -1,0 +1,20 @@
+# Visual Studio build output
+.vs/
+x64/
+Debug/
+Release/
+*/x64/
+*/Debug/
+*/Release/
+
+# Build artifacts
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.log
+
+# User specific
+*.vcxproj.user
+*.suo
+*.slnx

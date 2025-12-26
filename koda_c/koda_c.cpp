@@ -104,7 +104,7 @@ int main()
     std::string prazna_vrstica2;
     std::getline(file, prazna_vrstica2);
 
-    // Preveremi ali smo parv prebrali število celic -> mora biti 2778
+    // Preverim ali smo prav prebrali število celic -> mora biti 2778
     std::cout << "Stevilo celic = " << c1.size() << std::endl;
     // izpišemo prvih 5 celic za preverjenje
     std::cout << "Prvih 5 celic:" << std::endl;
